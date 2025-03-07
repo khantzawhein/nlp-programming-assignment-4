@@ -12,5 +12,5 @@ pip install -r requirements.txt
 
 Best model was already saved in `models` folder. You can use it to predict the test data.
 
-## Result (42.18% accuracy)
+## Result (43% accuracy)
 ![img](./result.png)
