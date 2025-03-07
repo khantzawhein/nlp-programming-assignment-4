@@ -7,8 +7,8 @@
 ```bash
 pip install -r requirements.txt
 ```
-1. Use `main.py` to train the model
-2. Use `predict.py` to predict the test data
+1. Use `main.ipynb` to train the model
+2. Use `predict.ipynb` to predict the test data
 
 Best model was already saved in `models` folder. You can use it to predict the test data.
 
